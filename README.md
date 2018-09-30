@@ -8,8 +8,8 @@ I will:
 
 - Import data into SQLite
 - Design a normalized database schema
-- Create tables for our schema
-- Insert data into our schema
+- Create tables for the schema
+- Insert data into the schema
 
 See more projects in my [portfolio](https://nahusznaj.github.io/portfolio/).
 
